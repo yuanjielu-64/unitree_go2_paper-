@@ -82,6 +82,8 @@ Issac gym https://github.com/leggedrobotics/terrain-generator
 https://github.com/ros2/rmw_cyclonedds/issues/458
 
 https://github.com/lupinjia/LeggedGym-Ex
+https://github.com/ZiwenZhuang/parkour
+https://github.com/unitreerobotics/unitree_rl_gym
 
 
 [x,y,yaw]  -->   [x, y, yaw, height]
